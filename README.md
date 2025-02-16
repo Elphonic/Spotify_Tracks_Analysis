@@ -45,7 +45,6 @@ The dataset contains **500+ entries** of **top hip-hop tracks and artists**, hig
 ## 📢 Next Steps  
 ✅ **Analyze lyrical content** to see how themes impact popularity.  
 ✅ **Compare hip-hop trends over different years**.  
-✅ **Use machine learning** to predict song success based on track features.  
 
 ---
 
